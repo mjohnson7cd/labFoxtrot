@@ -15,7 +15,7 @@ a {
 footer a:visited { 
     color: #bababa;
 }
-header a:visited {
+a:visited {
     color: #f5f5f5;
 }
 footer p { 
